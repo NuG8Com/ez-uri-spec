@@ -1,4 +1,4 @@
-> ⚠️ **Official Spec v1.1.0**: Identical to IANA Ticket #1455153 submission. Provisional registration.
+> ⚠️ **Official Spec v1.1.0**: Identical to IANA Ticket #1454153 submission. Provisional registration.
 
 # ez-uri-spec
 
